@@ -4,3 +4,4 @@
 <button class="btn bg-secondary text-secondary-content">Button</button>
 <button class="btn bg-accent text-accent-content">Button</button>
 <button class="btn bg-neutral text-neutral-content">Button</button>
+<p>This is some text</p>
